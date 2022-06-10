@@ -1,7 +1,7 @@
 
 # API Reference
 ### Livro
-#### Listar livros
+#### Api que consegue listar todos os livros livros
 ```http
   GET http://127.0.0.1:8000/api/pilot/
   
